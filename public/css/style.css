@@ -1,7 +1,7 @@
 body {
     color: #555;
     background-image: url("/images/PocBackground2.png");
-    background-repeat: repeat-y;
+    background-repeat: repeat;
 }
 a {
     text-decoration: none;
